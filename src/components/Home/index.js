@@ -4,7 +4,7 @@ import { useEffect, useState } from 'react';
 import LogoS from '../../assets/images/Logo-S.png';
 import AnimatedLetters from '../AnimatedLetters';
 import Logo from './Logo';
-import Loader from 'react-loaders';
+// import Loader from 'react-loaders';
 
 const Home = () => {
   const [letterClass, setLetterClass] = useState('text-animate');
@@ -34,7 +34,7 @@ const Home = () => {
         </div>
         <Logo />
       </div>
-      <Loader type='pacman' />
+      {/* <Loader type='pacman' /> */}
     </>
   );
 };

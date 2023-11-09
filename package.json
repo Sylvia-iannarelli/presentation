@@ -1,7 +1,7 @@
 {
   "name": "presentation",
   "version": "0.1.0",
-  "homepage": "https://Sylvia-iannarelli.github.io/presentation",
+  "homepage": "https://Sylvia-iannarelli.github.io/Presentation",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",

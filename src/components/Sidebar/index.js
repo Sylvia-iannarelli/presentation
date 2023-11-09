@@ -15,7 +15,7 @@ const Sidebar = () => {
 
   return (
     <div className="nav-bar">
-      <Link className="logo" to="/">
+      <Link className="logo" to="/presentation">
         <img src={LogoS} alt="logo" />
         <img className="sub-logo" src={LogoSylvia} alt="Sylvia" />
       </Link>
@@ -24,7 +24,7 @@ const Sidebar = () => {
           exact="true"
           onClick={() => setShowNav(false)}
           activeclassname="active"
-          to="/"
+          to="/presentation"
         >
           <FontAwesomeIcon icon={faHome} color="#4d4d4e" />
         </NavLink>
@@ -32,7 +32,7 @@ const Sidebar = () => {
           onClick={() => setShowNav(false)}
           activeclassname="active"
           className="about-link"
-          to="/about"
+          to="/presentation/about"
         >
           <FontAwesomeIcon icon={faUser} color="#4d4d4e" />
         </NavLink>
@@ -40,7 +40,7 @@ const Sidebar = () => {
           onClick={() => setShowNav(false)}
           activeclassname="active"
           className="portfolio-link"
-          to="/portfolio"
+          to="/presentation/portfolio"
         >
           <FontAwesomeIcon icon={faSuitcase} color="#4d4d4e" />
         </NavLink>
@@ -48,7 +48,7 @@ const Sidebar = () => {
           onClick={() => setShowNav(false)}
           activeclassname="active"
           className="contact-link"
-          to="/contact"
+          to="/presentation/contact"
         >
           <FontAwesomeIcon icon={faEnvelope} color="#4d4d4e" />
         </NavLink>
