@@ -15,7 +15,7 @@ const Sidebar = () => {
 
   return (
     <div className="nav-bar">
-      <Link className="logo" to="/presentation">
+      <Link className="logo" to="/presentation/">
         <img src={LogoS} alt="logo" />
         <img className="sub-logo" src={LogoSylvia} alt="Sylvia" />
       </Link>
@@ -24,7 +24,7 @@ const Sidebar = () => {
           exact="true"
           onClick={() => setShowNav(false)}
           activeclassname="active"
-          to="/presentation"
+          to="/presentation/"
         >
           <FontAwesomeIcon icon={faHome} color="#4d4d4e" />
         </NavLink>
