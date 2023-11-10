@@ -26,7 +26,7 @@ const Contact = () => {
       .then(
         () => {
           alert('Message bien envoyé !');
-          window.location.reload(false);
+          window.location.replace("https://sylvia-iannarelli.github.io/presentation/");
         },
         () => {
           alert('Le message n\'a pas pu être envoyé');
