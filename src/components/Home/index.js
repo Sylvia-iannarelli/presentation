@@ -30,7 +30,7 @@ const Home = () => {
             <AnimatedLetters letterClass={letterClass} strArray={'développeuse web.'.split('')} idx={32} />
           </h1>
           <h2>Front end & Back end | PHP | Symfony | React</h2>
-          <Link to="/presentation/contact" className="flat-button">CONTACTEZ-MOI</Link>
+          <Link to="/contact" className="flat-button">CONTACTEZ-MOI</Link>
         </div>
         <Logo />
       </div>
