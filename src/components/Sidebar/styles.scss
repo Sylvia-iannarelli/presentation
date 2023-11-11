@@ -141,8 +141,22 @@
     height: auto;
     min-height: auto;
 
-    ul, nav {
+    nav {
       display: none;
+    }
+  
+    ul {
+      top: 20px;
+      height: 30px;
+      width: 20%;
+      right: 40%;
+      display: flex;
+      justify-content: space-around;
+      
+        li svg {
+          margin: 5px;
+          height: 25px;
+        }
     }
 
     nav {
