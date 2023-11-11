@@ -2,7 +2,7 @@ import './styles.scss';
 import { useEffect, useState } from 'react';
 import AnimatedLetters from '../AnimatedLetters';
 import portfolioData from '../../data/portfolio.json';
-// import Loader from 'react-loaders';
+import Loader from 'react-loaders';
 
 const Portfolio = () => {
   const [letterClass, setLetterClass] = useState('text-animate');
@@ -57,7 +57,7 @@ const Portfolio = () => {
         </h1>
         <div>{renderPortfolio(portfolioData.portfolio)}</div>
       </div>
-      {/* <Loader type='pacman' /> */}
+      <Loader type='pacman' />
     </>
   );
 };

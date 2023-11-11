@@ -5,7 +5,7 @@ import {
   MapContainer, Marker, Popup, TileLayer,
 } from 'react-leaflet';
 import AnimatedLetters from '../AnimatedLetters';
-// import Loader from 'react-loaders';
+import Loader from 'react-loaders';
 
 const Contact = () => {
   const [letterClass, setLetterClass] = useState('text-animate');
@@ -109,7 +109,7 @@ const Contact = () => {
           </MapContainer>
         </div>
       </div>
-      {/* <Loader type='pacman' /> */}
+      <Loader type='pacman' />
     </>
   );
 };
