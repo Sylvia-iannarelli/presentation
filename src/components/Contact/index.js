@@ -41,7 +41,7 @@ const Contact = () => {
           <h1>
             <AnimatedLetters
               letterClass={letterClass}
-              strArray={'Contactez-moi'.split('')}
+              strArray={'Contact'.split('')}
               idx={15}
             />
           </h1>
@@ -96,15 +96,15 @@ const Contact = () => {
         </div>
         <div className="info-map">
           Sylvia iannarelli <br />
-          29 rue Pierre Semard <br />
+          Rue Pierre Semard <br />
           42000 SAINT-ETIENNE <br />
           <span>iannarelli.sylvia@gmail.com</span>
         </div>
         <div className="map-wrap">
-          <MapContainer center={[45.43385, 4.38010]} zoom={13}>
+          <MapContainer center={[45.43713, 4.387845]} zoom={13}>
             <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
             <Marker position={[45.43385, 4.38010]}>
-              <Popup>Sylvia habite ici !</Popup>
+              <Popup>Sylvia habite par ici !</Popup>
             </Marker>
           </MapContainer>
         </div>
