@@ -1,10 +1,10 @@
 {
   "portfolio": [
     {
-      "cover": "portfolio/001/image.png",
-      "title": "Premier exemple",
-      "description": "Technos utilisées et toutes autres infos utiles",
-      "url": "https://github.com/Sylvia-iannarelli"
+      "cover": "portfolio/001/Mon-CV-petite.JPG",
+      "title": "Mon CV",
+      "description": "Technos utilisées: HTML & CSS",
+      "url": "http://sylvia-iannarelli.hd.free.fr/"
     },
     {
       "cover": "portfolio/002/image.png",
