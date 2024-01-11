@@ -7,28 +7,28 @@
       "url": "http://sylvia-iannarelli.hd.free.fr/"
     },
     {
-      "cover": "portfolio/002/image.png",
-      "title": "Deuxième exemple",
+      "cover": "portfolio/002/doozer-03.jpeg",
+      "title": "En cours...",
       "description": "Technos utilisées et toutes autres infos utiles",
-      "url": "https://github.com/Sylvia-iannarelli"
+      "url": "#/portfolio"
     },
     {
-      "cover": "portfolio/003/image.png",
-      "title": "Troisième exemple",
+      "cover": "portfolio/003/doozer-01.jpeg",
+      "title": "En cours...",
       "description": "Technos utilisées et toutes autres infos utiles",
-      "url": "https://github.com/Sylvia-iannarelli"
+      "url": "#/portfolio"
     },
     {
-      "cover": "portfolio/004/image.png",
-      "title": "Quatriène exemple",
+      "cover": "portfolio/004/doozer-04.jpeg",
+      "title": "En cours...",
       "description": "Technos utilisées et toutes autres infos utiles",
-      "url": "https://github.com/Sylvia-iannarelli"
+      "url": "#/portfolio"
     },
     {
-      "cover": "portfolio/005/image.png",
-      "title": "Cinquième exemple",
+      "cover": "portfolio/005/doozer-02.jpeg",
+      "title": "En cours...",
       "description": "Technos utilisées et toutes autres infos utiles",
-      "url": "https://github.com/Sylvia-iannarelli"
+      "url": "#/portfolio"
     }
   ]
 }
