@@ -7,7 +7,7 @@
       "url": "http://mon-cv.iannarelli.fr"
     },
     {
-      "cover": "portfolio/002/Portfolio.JPG",
+      "cover": "portfolio/002/presentation.jpg",
       "title": "Ce portfolio",
       "description": "Technos utilisées: React.js & Sass",
       "url": "https://github.com/Sylvia-iannarelli/presentation"
@@ -19,7 +19,7 @@
       "url": "http://oflix.iannarelli.fr"
     },
     {
-      "cover": "portfolio/004/doozer-04.jpeg",
+      "cover": "portfolio/004/mli-creations.jpg",
       "title": "mli-creations",
       "description": "Développement en cours... Technos utilisées: PHP, Symfony, Twig",
       "url": "https://github.com/Sylvia-iannarelli/mli-creations"
