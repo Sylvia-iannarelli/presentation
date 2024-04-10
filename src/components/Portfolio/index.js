@@ -53,7 +53,6 @@ const Portfolio = () => {
             strArray={'Portfolio'.split('')}
             idx={15}
           />
-          <h2>En cours de construction...</h2>
         </h1>
         <div>{renderPortfolio(portfolioData.portfolio)}</div>
       </div>

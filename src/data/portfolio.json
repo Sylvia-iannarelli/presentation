@@ -7,28 +7,22 @@
       "url": "http://mon-cv.iannarelli.fr"
     },
     {
-      "cover": "portfolio/002/doozer-03.jpeg",
-      "title": "En cours...",
-      "description": "Technos utilisées et toutes autres infos utiles",
-      "url": "#/portfolio"
+      "cover": "portfolio/002/Portfolio.JPG",
+      "title": "Ce portfolio",
+      "description": "Technos utilisées: React.js & Sass",
+      "url": "https://github.com/Sylvia-iannarelli/presentation"
     },
     {
-      "cover": "portfolio/003/doozer-01.jpeg",
-      "title": "En cours...",
-      "description": "Technos utilisées et toutes autres infos utiles",
-      "url": "#/portfolio"
+      "cover": "portfolio/003/Oflix.jpg",
+      "title": "O'flix",
+      "description": "Projet réalisé avec l'école O'clock. Technos utilisées: PHP, Symfony, Twig",
+      "url": "http://oflix.iannarelli.fr"
     },
     {
       "cover": "portfolio/004/doozer-04.jpeg",
-      "title": "En cours...",
-      "description": "Technos utilisées et toutes autres infos utiles",
-      "url": "#/portfolio"
-    },
-    {
-      "cover": "portfolio/005/doozer-02.jpeg",
-      "title": "En cours...",
-      "description": "Technos utilisées et toutes autres infos utiles",
-      "url": "#/portfolio"
+      "title": "mli-creations",
+      "description": "Développement en cours... Technos utilisées: PHP, Symfony, Twig",
+      "url": "https://github.com/Sylvia-iannarelli/mli-creations"
     }
   ]
 }
