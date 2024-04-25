@@ -21,8 +21,8 @@
     {
       "cover": "portfolio/004/mli-creations.jpg",
       "title": "mli-creations",
-      "description": "Développement en cours... Technos utilisées: PHP, Symfony, Twig",
-      "url": "https://github.com/Sylvia-iannarelli/mli-creations"
+      "description": "Back-office d'une boutique de bijoux artisanaux. Technos utilisées: PHP, Symfony, Twig, Bootstrap",
+      "url": "http://mli-creations.iannarelli.fr"
     }
   ]
 }
