@@ -20,9 +20,15 @@
     },
     {
       "cover": "portfolio/004/mli-creations.jpg",
-      "title": "mli-creations",
+      "title": "mli-creations-back-office",
       "description": "Back-office d'une boutique de bijoux artisanaux. Technos utilisées: PHP, Symfony, Twig, Bootstrap",
       "url": "http://mli-creations.iannarelli.fr"
+    },
+    {
+      "cover": "portfolio/005/mli-creations-front.jpg",
+      "title": "mli-creations",
+      "description": "Développement en cours - Boutique en ligne de bijoux artisanaux. Technos utilisées: React.js & Tailwind CSS",
+      "url": "https://github.com/Sylvia-iannarelli/mli-creations-front"
     }
   ]
 }
