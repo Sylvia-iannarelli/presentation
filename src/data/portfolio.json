@@ -4,7 +4,7 @@
       "cover": "portfolio/001/Mon-CV-petite.JPG",
       "title": "Mon CV",
       "description": "Technos utilisées: HTML & CSS",
-      "url": "http://mon-cv.iannarelli.fr"
+      "url": "https://mon-cv.iannarelli.fr"
     },
     {
       "cover": "portfolio/002/presentation.jpg",
@@ -16,19 +16,31 @@
       "cover": "portfolio/003/Oflix.jpg",
       "title": "O'flix",
       "description": "Projet réalisé avec l'école O'clock. Technos utilisées: PHP, Symfony, Twig",
-      "url": "http://oflix.iannarelli.fr"
+      "url": "https://oflix.iannarelli.fr"
     },
     {
       "cover": "portfolio/004/mli-creations.jpg",
       "title": "mli-creations-back-office",
-      "description": "Back-office d'une boutique de bijoux artisanaux. Technos utilisées: PHP, Symfony, Twig, Bootstrap",
-      "url": "http://mli-creations.iannarelli.fr"
+      "description": "(en cours) Back-office d'une boutique de bijoux artisanaux. Technos utilisées: PHP, Symfony, Twig, Bootstrap",
+      "url": "https://mli-creations-back-office.iannarelli.fr"
     },
     {
       "cover": "portfolio/005/mli-creations-front.jpg",
       "title": "mli-creations",
-      "description": "Développement en cours - Boutique en ligne de bijoux artisanaux. Technos utilisées: React.js & Tailwind CSS",
-      "url": "https://github.com/Sylvia-iannarelli/mli-creations-front"
+      "description": "(en cours) Boutique en ligne de bijoux artisanaux. Technos utilisées: React.js & Tailwind CSS",
+      "url": "https://mli-creations.iannarelli.fr"
+    },
+    {
+      "cover": "portfolio/006/Botiga-back.JPG",
+      "title": "Back-office du site Botiga",
+      "description": "Projet de fin de formation réalisé en groupe - Back-office d'une boutique en ligne. Technos utilisées: PHP, Symfony, Twig, Bootstrap",
+      "url": "https://botiga-back-office.iannarelli.fr"
+    },
+    {
+      "cover": "portfolio/007/Botiga-front.JPG",
+      "title": "Botiga",
+      "description": "Réalisé par les collègues front + des ajustements personnels - Boutique en ligne. Technos utilisées: React.js, Axios, Google API & Semantic",
+      "url": "https://botiga.iannarelli.fr"
     }
   ]
 }
