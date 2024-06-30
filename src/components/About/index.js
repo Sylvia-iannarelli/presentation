@@ -35,7 +35,7 @@ const About = () => {
             J'ai obtenu le titre professionnel DWWM en juillet 2023, après avoir suivi une formation intensive d'une durée de 6 mois chez O'clock.
           </p>
           <p>
-            Je suis de nature curieuse et inventive, mais aussi rigoureuse et persévérante, et j’ai hâte de pouvoir mettre cela en application dans un métier qui correspond mieux à ma personnalité et à mes envies que ceux que j’ai pu connaître jusqu’alors.
+            Je suis de nature curieuse et inventive, mais aussi rigoureuse et persévérante, et j’ai hâte de pouvoir mettre cela en application dans un métier qui correspond bien à ma personnalité et à mes envies.
           </p>
         </div>
 
